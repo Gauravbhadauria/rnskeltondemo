@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "react-native-image-placeholder": "^1.0.14",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-shimmer-placeholder": "^2.0.9"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
